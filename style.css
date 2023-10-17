@@ -1,10 +1,10 @@
-h1 {
+#titulo {
  font-size: 25px;
  text-align: center;
 
 }
 
-p {
+.texto {
 
     text-align: center;
     color: rgb(185, 12, 148);
