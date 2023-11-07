@@ -16,7 +16,7 @@ body {
 }
 #banner { 
     background-color: white;
-    text-align: center;
+    display: block;
     padding: 10px;
     margin: 10px;
     max-width: 50%;
