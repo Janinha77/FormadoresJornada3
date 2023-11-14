@@ -21,3 +21,13 @@ body {
     padding: 10px;
     margin: auto;
 }
+.banner {
+    background-image: linear-gradient(#FCD1BA);
+    color: #FF3FA4;
+}
+.texto { 
+    color: #56062f;
+}
+.lista {
+    color:rgb(130, 58, 102)
+}
