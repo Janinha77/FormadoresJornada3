@@ -29,12 +29,11 @@ body {
 .lista {
     font: size 30px;;
     color:rgb(130, 58, 102)
-    
-}
-.PC {
     font-size: 30px;
     width:40%;
     display: block;
     padding: 10px;
     margin: auto;
 }
+
+   
