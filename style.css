@@ -19,14 +19,6 @@ body {
     padding: 20%;
     margin: auto;
 }
-#logo {
-    background-color:#FFC8C8;
-    width: 10%;
-    display: block;
-    padding: 20%;
-    margin: auto;
-
-}
 .banner {
     background-image: linear-gradient(#FCD1BA);
     color: #FF3FA4;
