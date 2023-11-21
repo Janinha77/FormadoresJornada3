@@ -41,7 +41,7 @@ header {
 #Logo {
     background-color:#FFC8C8;
     width: 10%;;
-    display: flex;
+    display: block;
     padding: 50%;
     margin: 0%;
 }
