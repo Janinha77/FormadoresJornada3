@@ -38,5 +38,11 @@ header {
     color: #b80a67;
     
 }
-
+#Logo {
+    background-color:#FFC8C8;
+    width: 10%;
+    display: block;
+    padding: 20%;
+    margin: auto;
+}
    
