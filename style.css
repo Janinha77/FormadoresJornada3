@@ -31,7 +31,7 @@ body {
     color:rgb(130, 58, 102)
 }
 header {
-    padding: 50%;
+    padding: 10%;
     background-color: #FFC8C8;
     border-bottom: 2px solid rgb(134, 4, 71);
     font-size: 10px;
@@ -42,7 +42,7 @@ header {
     background-color:#FFC8C8;
     width: 10%;;
     display: block;
-    padding: 50%;
-    margin: 0%;
+    padding: 10%;
+    margin: auto;
 }
    
