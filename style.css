@@ -30,5 +30,11 @@ body {
     font: size 30px;;
     color:rgb(130, 58, 102)
 }
-
+header {
+    padding: 20px;
+    background-color: #FF3FA4;
+    border-bottom: 2px solid rgb(134, 4, 71);
+    font-size: 32px;
+    color: #b80a67;
+}
    
