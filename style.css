@@ -6,13 +6,13 @@ body {
     #titulo {
         font-size:30px;
         text-align: center;
-        color: rgb(165, 42, 87);
+        color: #440444;
     }
     
     
     .texto{
         text-align: center;
-        color:#ff006a;
+        color:#450821;
         font-size: 20px;
     }
     
@@ -24,7 +24,7 @@ body {
     .titulo {
         text-align: center;
         background-image: linear-gradient(#FF00FF, #EE82EE);
-        color: #8B008B;
+        color: #440444;
     
     }
     #Feira {
@@ -35,7 +35,7 @@ body {
     .titulo-Feira {
         text-align: center;
         background-image: linear-gradient(#FF00FF, #EE82EE);
-        color: #8B008B;
+        color: #440444;
 
     }
    
