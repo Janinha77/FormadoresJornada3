@@ -32,6 +32,11 @@ body {
         margin: 20px;
         padding: 5px;
         display: block;
+    }
+    .titulo-Feira {
+        text-align: center;
+        background-image: linear-gradient(#FF00FF, #EE82EE);
+        color: #8B008B;
 
     }
    
