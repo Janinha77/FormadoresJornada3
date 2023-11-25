@@ -39,6 +39,9 @@ header {
     margin: auto;
     
 }
+.cabecalho{ 
+    padding: 20px;;
+}
 #Logo {
     background-color:#FFC8C8;
     width: 70px;
