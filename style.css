@@ -7,6 +7,14 @@ body {
  text-align: center;
  color: rgb(139, 33, 120);
 }
+.titulo {
+    text-align: center;
+    background-image: linear-gradient(#FF00FF, #EE82EE);
+    color: #8B008B;
+
+
+
+}
 .texto {
     text-align: center;
     color: #FF3FA4;
