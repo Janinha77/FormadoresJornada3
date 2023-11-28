@@ -23,7 +23,7 @@ body {
     .cabecalho-item {
         font-size: 10px;
         color:#450821;
-        display: list-item;
+        text-decoration-line: line-through;
     }
     .cabecalho-imagem {
         width: 10%;
