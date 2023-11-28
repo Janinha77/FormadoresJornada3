@@ -23,7 +23,7 @@ body {
     .cabecalho-item {
         display: inline-block;
     }
-    #Logo {
+    .cabecalho-imagem {
         width: 10%;
         height: 10%;
        }
