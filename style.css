@@ -22,8 +22,9 @@ body {
     }
     .cabecalho-item {
         font-size: 10px;
-        color:#450821;
         text-align: left;
+        color:#450821;
+     
     }
     .cabecalho-imagem {
         width: 10%;
