@@ -23,7 +23,7 @@ body {
     .cabecalho-item {
         font-size: 10px;
         color:#450821;
-        text-decoration-line: line-through;
+        text-align: left;
     }
     .cabecalho-imagem {
         width: 10%;
