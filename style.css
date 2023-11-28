@@ -14,7 +14,12 @@ body {
         border-bottom: 2px;
         color: #450821;
     }
-    
+    #Logo {
+        width: 30%;
+        margin: 20px;
+        padding: 5px;
+
+    }
     .texto{
         text-align: center;
         color:#450821;
