@@ -20,6 +20,7 @@ body {
         width: 10%;
         height: 10%;
         text-align: center;
+        border-radius: 10px;
        }
        #titulo {
         font-size:30px;
@@ -36,6 +37,7 @@ body {
         width: 50%;
         margin: 0px;
         padding: 5px;
+        border-radius: 10px;
     }
     .titulo {
         text-align: center;
@@ -45,6 +47,8 @@ body {
         width: 50%;
         margin: 20px;
         padding: 5px;
+        border-radius: 10px;
+
     }
     .titulo-Feira {
         text-align: center;
@@ -60,6 +64,7 @@ body {
         width: 50%;
         margin: 0px;
         padding: 5px;
+        border-radius: 10px;
     }
     .titulo-Exi {
         text-align: center;
